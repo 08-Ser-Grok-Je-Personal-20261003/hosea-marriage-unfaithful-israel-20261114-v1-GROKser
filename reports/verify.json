@@ -1,22 +1,22 @@
 {
- "generated": "2026-11-07 16:53:10 Asia/Taipei (UTC+8)",
+ "generated": "2026-11-14 15:40:06 Asia/Taipei (UTC+8)",
  "live_pages": 159,
  "checks": {
   "经文引证列表(refs)": {
-   "total": 245,
-   "pass": 245
+   "total": 253,
+   "pass": 253
   },
   "比利时 条文块": {
-   "total": 40,
-   "pass": 40
+   "total": 41,
+   "pass": 41
   },
   "多特 条文块": {
-   "total": 72,
-   "pass": 72
+   "total": 73,
+   "pass": 73
   },
   "引句(quote)": {
-   "total": 60,
-   "pass": 60
+   "total": 54,
+   "pass": 54
   },
   "站内/外部页面片段": {
    "total": 14,
@@ -35,8 +35,8 @@
    "pass": 3
   },
   "海德堡 问答块": {
-   "total": 147,
-   "pass": 147
+   "total": 153,
+   "pass": 153
   },
   "完整性: HC=129": {
    "total": 1,
@@ -51,8 +51,8 @@
    "pass": 1
   },
   "圣经和合本(getbible 在线)": {
-   "total": 54,
-   "pass": 54
+   "total": 112,
+   "pass": 112
   }
  },
  "failures": [],
